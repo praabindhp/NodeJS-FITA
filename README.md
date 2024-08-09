@@ -2,31 +2,6 @@
 ### NodeJS Source Code For FITA
 Including Authentication, Sections And Backend Project
 
-### Authenticate User
-~ JWT Authentication
-
-~ Login And Token Access
-
-~ Secure Password Hashing
-
-### Employee Tracking
-~ **Backend** **Project** Source Code
-~ Employee
-- Models
-- Routes
-- Controllers
-  
-~ Employee **CRUD** Operation
-
-~ Department
-- Models
-- Routes
-- Controllers
-
-~ Department **CRUD** Operation
-
-~ Server File
-
 ### Section - 1
 ~ CommonJS **CJS** vs Modules **MJS**
 
@@ -74,7 +49,7 @@ Including Authentication, Sections And Backend Project
 
 ~ MySQL Local Connection
 
-~ Record CRUD Operation
+~ Record CRUD Operations
 
 ### Section - 11
 ~ SQL Database Connectivity
@@ -82,7 +57,7 @@ Including Authentication, Sections And Backend Project
 
 ~ MySQL Local Connection
 
-~ Record CRUD Operation
+~ Record CRUD Operations
 
 ### Section - 12
 ~ NoSQL Database Connectivity
@@ -93,15 +68,49 @@ Including Authentication, Sections And Backend Project
 - Data Routes
 - Server File
 
-~ Data CRUD Operation
+~ Data CRUD Operations
 
 ### Section - 13
 ~ NoSQL Database Connectivity
 - Via MongoDB ORM ~ **Mongoose**
 
-~ MongoDB Compass Cloud Connection
-- Data Controllers
-- Data Routes
+~ MongoDB Atlas Cloud Connection
+
+~ **ToDo Backend** Application
+- ToDo Models
+- ToDo Controllers
+- ToDo Routes
 - Server File
 
-~ Data CRUD Operation
+~ ToDo CRUD Operations
+
+### Authenticate User
+~ JWT Authentication
+
+~ Login And Token Access
+
+~ Secure Password Hashing
+
+### Employee Tracking
+~ **Backend** **Project** Source Code
+~ **Employee**
+- Models
+- Routes
+- Controllers
+  
+~ Employee **CRUD** Operations
+
+~ **Department**
+- Models
+- Routes
+- Controllers
+
+~ Department **CRUD** Operations
+
+~ Server File
+
+## Author
+
+### Praabindh Pradeep
+
+#### MERN Full Stack Web Developer
