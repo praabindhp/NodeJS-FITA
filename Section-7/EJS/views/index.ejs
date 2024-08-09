@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title><%= title %></title>
+    </head>
+    <body>
+        <h1><%= message %></h1>
+
+        <h2>List of Items ~ </h2>
+        <ul>
+            <% dataArray.forEach(function(item) { %>
+            <li><%= item %></li>
+            <% }); %>
+        </ul>
+
+        <h4>My Location ~ <%= location %> </h4>
+        <% const date = new Date(); %>
+        <h3>Today's Date ~ <%= date %></h3>
+    </body>
+</html>

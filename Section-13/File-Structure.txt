@@ -1,0 +1,14 @@
+project/
+│
+├── controllers/
+│   └── todoController.js
+│
+├── models/
+│   └── todoModel.js
+│
+├── routes/
+│   └── todoRoutes.js
+│
+├── app.js
+│
+└── package.json
